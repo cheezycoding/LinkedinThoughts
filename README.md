@@ -5,7 +5,6 @@ AI-powered satirical LinkedIn post generator. Create r/LinkedInLunatics-worthy c
 ## 🚀 Live Demo
 
 - **Frontend:** https://linkedin-thoughts.vercel.app
-- **Backend API:** https://linkedin-lunatics-708213822442.asia-southeast1.run.app
 
 ## 🏗️ Architecture
 
